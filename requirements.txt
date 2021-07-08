@@ -1,0 +1,6 @@
+ftfy
+regex
+opencv-python
+pandas
+torchvision==0.8.2
+torch==1.7.1
